@@ -1,0 +1,45 @@
+body
+{
+ background-color:lightskyblue;
+ text-align: center;
+font-size : 25px;
+}
+.btn1
+{
+ font-size: 30px;
+ cursor: pointer;
+ 
+}
+.btn2
+{
+ font-size: 22px;
+cursor: pointer;
+background-color: darkslategrey;
+color: white;
+ 
+}
+.btn1:hover
+{
+ color: white;
+  background-color : black;
+}
+.rst:hover
+{
+ color: white;
+  background-color : black;
+}
+.btn2:hover
+{
+background-color: green;
+ 
+}
+.rst
+{
+ font-size: 30px;
+ border-radius: 5px;
+cursor:pointer;
+}
+.select1
+{
+ font-size: 20px;
+}

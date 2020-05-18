@@ -1,0 +1,26 @@
+body
+{
+ background-color:lightskyblue;
+ text-align: center;
+font-size : 25px;
+}
+.btn1
+{
+ font-size: 30px;
+ cursor: pointer;
+}
+.rst
+{
+ font-size: 30px;
+ cursor: pointer;
+}
+.btn1:hover
+{
+ color: white;
+  background-color : black;
+}
+.rst:hover
+{
+ color: white;
+  background-color : black;
+}

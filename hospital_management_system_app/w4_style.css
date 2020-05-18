@@ -1,0 +1,31 @@
+body
+{
+ background: url(doctor.jpeg) no-repeat;
+ text-align: center;
+font-size : 25px;
+ background-size: cover;
+}
+.btn1
+{
+ font-size: 30px;
+ cursor: pointer;
+}
+.rst
+{
+cursor: pointer;
+ font-size: 30px;
+}
+.btn1:hover
+{
+ color: white;
+  background-color : black;
+}
+.rst:hover
+{
+ color: white;
+  background-color : black;
+}
+.select1
+{
+ font-size: 20px;
+}

@@ -1,0 +1,146 @@
+.btn1
+{
+  background-color: green; /* Green */
+  
+  color: white;
+ 
+border-radius : 20px;
+  padding: 15px 32px;
+ font-style:italic;
+  font-size: 20px;
+ cursor: pointer;
+}
+body
+{
+ 
+margin: 0;
+ padding: 0;
+ font-family: sans-serif;
+ background: url(hosp2.jpg) no-repeat;
+ background-size: cover;
+ text-align: right;
+}
+.btn2
+{
+  background-color: green; /* Green */
+ font-style:italic;
+  color: white;
+ border-radius : 20px;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 20px;
+ cursor: pointer;
+}
+.btn2:hover
+{
+ background-color : tomato;
+}
+.btn3:hover
+{
+ background-color : tomato;
+}
+.btn4:hover
+{
+ background-color : tomato;
+}
+.btn5:hover
+{
+ background-color : tomato;
+}
+.btn6:hover
+{
+ background-color : tomato;
+}
+.btn7:hover
+{
+ background-color : tomato;
+}
+.btn1:hover
+{
+ background-color : tomato;
+}
+.btn8:hover
+{
+ background-color : tomato;
+}
+.btn9:hover
+{
+ background-color : tomato;
+}
+.btn6
+{
+  background-color: green; /* Green */
+ font-style:italic;
+  color: white;
+  padding: 15px 32px;
+border-radius : 20px;
+  font-size: 20px;
+ cursor: pointer;
+}
+.btn9
+{
+  background-color: green; /* Green */
+ font-style:italic;
+  color: white;
+  padding: 15px 32px;
+border-radius : 20px;
+  font-size: 20px;
+ cursor: pointer;
+}
+.btn7
+{
+  background-color: green; /* Green */
+  
+  color: white;
+ border-radius : 20px;
+  padding: 15px 32px;
+font-style:italic;
+  font-size: 20px;
+ cursor: pointer;
+   font-family:  Arial, Helvetica, sans-serif;
+}
+.btn3
+{
+  background-color: green; /* Green */
+ 
+  color: white;
+ border-radius : 20px;
+  padding: 15px 32px;
+  font-style:italic;
+  font-size: 20px;
+ cursor: pointer;
+ font-family:  "Times New Roman", Times, serif;
+}
+.btn4
+{
+  background-color: green; /* Green */
+  font-style:italic;
+  color: white;
+border-radius : 20px;
+  padding: 15px 32px;
+  
+  font-size: 20px;
+ cursor: pointer;
+}
+.btn5
+{
+  background-color: green; /* Green */
+ border-radius : 20px;
+  color: white;
+ font-style:italic;
+  padding: 15px 32px;
+ 
+  font-size: 20px;
+ cursor: pointer;
+}
+.btn8
+{
+  background-color: grey; /* Green */
+ border-radius : 10px;
+  color: black;
+ font-style:italic;
+  padding: 15px 32px;
+  margin-right: 50px;
+  font-size: 15px;
+ cursor: pointer;
+}

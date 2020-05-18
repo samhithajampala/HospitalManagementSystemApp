@@ -1,0 +1,29 @@
+body
+{
+background: url(patient.jpeg) no-repeat;
+ text-align: center;
+font-size : 25px;
+ background-size: cover;
+}
+.btn1
+{
+ font-size: 30px;
+ border-radius: 5px;
+cursor:pointer;
+}
+.btn1:hover
+{
+ color: white;
+  background-color : black;
+}
+.rst:hover
+{
+ color: white;
+  background-color : black;
+}
+.rst
+{
+ font-size: 30px;
+ border-radius: 5px;
+cursor:pointer;
+}
